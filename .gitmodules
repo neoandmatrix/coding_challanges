@@ -1,0 +1,3 @@
+[submodule "wctool"]
+	path = wctool
+	url = ./wctool
