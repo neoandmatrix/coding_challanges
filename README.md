@@ -2,6 +2,6 @@
 
 ### Here i attemept to solve coding challanges given by [John Crickett](https://codingchallenges.fyi/).
 
-## completed
+## Completed
 
  - Own WC Tool
