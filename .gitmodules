@@ -1,3 +1,6 @@
 [submodule "wctool"]
 	path = wctool
 	url = https://github.com/neoandmatrix/wctool.git
+[submodule "JSON_Parser"]
+	path = JSON_Parser
+	url = https://github.com/neoandmatrix/json_parser.git
