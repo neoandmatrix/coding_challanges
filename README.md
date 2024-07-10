@@ -4,8 +4,8 @@
 
 ## Completed
 
- - [Own WC Tool](https://github.com/neoandmatrix/wctool.git)
+ - [Own WC Tool](https://github.com/neoandmatrix/wctool)
 
 ## In Progress
 
- - [JSON Parser](https://github.com/neoandmatrix/json_parser.git)
+ - [JSON Parser](https://github.com/neoandmatrix/json_parser)
