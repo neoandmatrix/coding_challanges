@@ -6,6 +6,7 @@
 
  - [Own WC Tool](https://github.com/neoandmatrix/wctool)
 
+ - [JSON Parser](https://github.com/neoandmatrix/json_parser)   
 ## In Progress
 
- - [JSON Parser](https://github.com/neoandmatrix/json_parser)
+ - [File Compressor]() 
